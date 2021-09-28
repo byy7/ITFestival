@@ -14,7 +14,13 @@
                 <form>
                   <div class="form-group">
                     <label for="exampleInputPassword1">Cabang Lomba</label>
-                    <input type="password" class="form-control">
+                    <input
+                      type="text"
+                      class="form-control"
+                      placeholder="Email Address"
+                      v-model="upload.event_id"
+                      :class="{ 'is-invalid': $v.upload.event_id.$error }"
+                    />
                   </div>
                   <div class="form-group">
                     <label for="exampleInputEmail1"><b>Upload karya</b></label>

@@ -9,7 +9,7 @@
               <br />
             </div>
           </div>
-          <div class="card1 col-sm-12">
+          <div class="card1 col-sm-12" style="margin-top: -5rem;">
             <img class="image" width="400px" height="400px" src="img/pelatihan web design.png" />
             <div class="web col-sm-12">
               <center><b class="web">Pelatihan Web Design</b><br /><br /></center>
@@ -20,11 +20,11 @@
             </div>
           </div>
           <div class="card2 col-sm-12">
+            <img class="image2" width="400px" height="400px" src="img/pelatihan android.png" alt="" />
             <div class="web2 col-sm-12">
               <center><b class="web2">Pelatihan Android</b><br /><br /></center>
               <p style="font-weight: normal;">Setelah mengikuti pelatihan ini, peserta dapat meningkatkan <br />kualitas dan kompetensinya dalam mendesain web secara profesional.</p>
             </div>
-            <img class="image2" width="400px" height="400px" src="img/pelatihan android.png" alt="" />
           </div>
         </div>
       </div>

@@ -21,6 +21,15 @@
   #event img {
     height: 130px;
   }
+
+  #pelatihan .card1 .web,
+  #pelatihan .card2 .web2{
+    font-size: 1.3rem;
+  }
+  #pelatihan .card1 .web p,
+  #pelatihan .card2 .web2 p{
+    font-size: 1rem;
+  }
 }
 
 #flashback .card{
@@ -39,9 +48,13 @@
   #pelatihan .card1 .web,
   #pelatihan .card2 .web2 {
     text-align: center;
-    margin-right: 150px;
+    margin-right: 160px;
     opacity: 0;
     transition: 0.3s ease-in-out;
+  }
+  #pelatihan .card2 .web2{
+    right: 45%;
+
   }
   #pelatihan .card1:hover .web,
   #pelatihan .card2:hover .web2 {
@@ -51,17 +64,21 @@
   #pelatihan .card2 .web2 {
     text-align: center;
     margin-top: 100px;
+    font-size: 2rem;
   }
   #pelatihan .card1 .web p {
     text-align: center;
     margin-left: -200px;
+    font-size: 1rem;
   }
   #pelatihan .card2 .web2 p {
     text-align: center;
     margin-right: 300px;
+    font-size: 1rem;
   }
   #pelatihan .card2 .web2 {
     margin-right: 300px;
+    font-size: 2rem;
   }
 
   #pelatihan .card1:hover img {
@@ -77,7 +94,7 @@
   }
   #pelatihan .image2 {
     position: relative;
-    right: 83%;
+    left: 31%;
     transition: 0.3s ease-in-out;
   }
   @keyframes gerak {
@@ -90,13 +107,14 @@
   }
   @keyframes gerak2 {
     0% {
-      right: 83%;
+      left: 31%;
     }
     100% {
-      right: 60%;
+      left: 65%;
     }
   }
 }
+
 
 /* perlombaan */
 #lomba .container .col{
@@ -559,7 +577,7 @@
 }
 
 #navbar .navbar {
-  margin-bottom: 20px;
+  margin-bottom: 0;
 }
 
 #navbar .navbar-toggler,

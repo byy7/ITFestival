@@ -9,11 +9,23 @@
               <img v-lazy="'img/logoitfest.png'" alt="" height="200px" />
             </div>
 
-            <fg-input class="no-border input-lg" addon-left-icon="now-ui-icons users_circle-08" placeholder="Email..."> </fg-input>
+            <fg-input class="no-border input-lg"
+                       addon-left-icon="now-ui-icons users_circle-08" 
+                       placeholder="Email..."
+                       v-model="user.email"
+                      :class="{ 'is-invalid': $v.user.email.$error }"> </fg-input>
 
-            <fg-input class="no-border input-lg" addon-left-icon="now-ui-icons text_caps-small" placeholder="Password..."> </fg-input>
+            <fg-input class="no-border input-lg" 
+                      addon-left-icon="now-ui-icons text_caps-small" 
+                      placeholder="Password..."
+                      v-model="user.password"
+                      :class="{ 'is-invalid': $v.user.password.$error}"> </fg-input>
 
-            <fg-input class="no-border input-lg" addon-left-icon="now-ui-icons text_caps-small" placeholder="Confirm Password..."> </fg-input>
+            <fg-input class="no-border input-lg" 
+                      addon-left-icon="now-ui-icons text_caps-small" 
+                      placeholder="Confirm Password..."
+                      v-model="user.confirmpassword"
+                      :class="{ 'is-invalid': $v.user.confirmpassword.$error }"> </fg-input>
 
             <template slot="raw-content">
               <div class="card-footer text-center">
@@ -35,6 +47,14 @@
 <script>
 import { Card, Button, FormGroupInput } from "@/components";
 import MainFooter from "@/layout/MainFooter";
+import {
+  required,
+  minLength,
+  maxLength,
+  email,
+  sameAs,
+} from "vuelidate/lib/validators";
+// import axios from "axios";
 export default {
   name: "register",
   bodyClass: "register-page",
@@ -43,6 +63,40 @@ export default {
     MainFooter,
     [Button.name]: Button,
     [FormGroupInput.name]: FormGroupInput,
+  },
+  data() {
+    return {
+      user: {
+        email: "",
+        password: "",
+        confirmpassword: "",
+      },
+    };
+  },
+  validations: {
+    user: {
+      email: {
+        required,
+        email,
+        maxLength: maxLength(50),
+      },
+      password: {
+        required,
+        minLength: minLength(8),
+      },
+      confirmpassword: {
+        required,
+        sameAsPassword: sameAs("password"),
+      },
+    },
+  },
+  methods: {
+    submit() {
+      this.$v.$touch();
+      if (this.$v.$error) return;
+      alert("Tes");
+      console.log("isi: ", this.user)
+    },
   },
 };
 </script>
