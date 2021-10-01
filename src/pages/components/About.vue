@@ -5,13 +5,13 @@
             <div class="col mt-5 text-center">
               <h2>
                 <b>
-                  <font color="red">About IT-FESTIVAL</font>
+                  <font color="red">About <br> IT FESTIVAL</font>
                 </b>
               </h2>
             </div>
           </div>
           <div class="row">
-            <div class="col-lg-7 text-justify pt-5 pl-5">
+            <div class="col-lg-7 text-justify">
               <br>
               <br>
               <br>

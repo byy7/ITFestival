@@ -4,7 +4,7 @@
     <div class="page-header page-header-small">
       <parallax
         class="page-header-image"
-        style="background-image: url('img/itfest2019.jpg')"
+        style="background-image: url(img/itfest2019.JPG)"
       >
       </parallax>
       <div class="content-center">

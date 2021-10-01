@@ -13,7 +13,7 @@
           <div class="row mt-5 text-center justify-content-center">
             <div class="col-lg-4">
               <div class="card" style="width: 18rem">
-                <img src="img/pelatihan2.JPG" class="card-img-top" alt="" />
+                <img src="img/pelatihan2.jpg" class="card-img-top" alt="" />
                 <div class="card-body">
                   <h5 class="card-title">Pelatihan</h5>
                   <p class="card-text">

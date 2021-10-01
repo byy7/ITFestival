@@ -40,6 +40,12 @@
 }
 /* akhir index */
 
+/* webinar */
+#event .sandika {
+  object-fit: contain;
+}
+/* akhir webinar */
+
 @media (min-width: 767px) {
   #pelatihan .container .card1,
   #pelatihan .container .card2 {
@@ -689,11 +695,12 @@
 
 #contact .container .kontak{
   text-decoration: none;
-  transition: transform 1.5s;
+  transition: transform .5s;
 }
+
 #contact .container .kontak:hover {
   text-decoration: underline;
-  transform: scale(1.2);
+  transform: scale(1.05);
 }
 .contact {
   background-color: rgba(0, 0, 0, 0);
@@ -704,3 +711,11 @@
 #flashback .card:hover{
   transform: scale(1.2);
 }
+
+/* my style */
+
+h1,h2,h3,h5,h6,p{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+

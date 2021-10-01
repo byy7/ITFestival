@@ -9,12 +9,12 @@
             </div>
           </div>
           <div class="row seminar">
-            <div class="col-lg-6 col-md-6 col-sm-12 ">
+            <div class="col-lg-6 col-md-12 col-sm-12 ">
               <router-link to="profile">
-                <img class="sandika pt-3 btn-outline-link" width="100%" height="228 px" src="img/sandhika galih.png" />
+                <img class="sandika pt-3 btn-outline-link" width="100%" height="auto" src="img/sandhika galih.png" />
               </router-link>
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 ">
+            <div class="col-lg-6 col-md-12 col-sm-12 ">
               <router-link to="profile">
                 <img class="sidiq pt-3 btn-outline-link" width="100%" height="auto" src="img/sidiq permana.png" />
               </router-link>

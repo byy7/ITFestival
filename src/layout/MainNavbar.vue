@@ -70,7 +70,8 @@
         <!-- <router-link to=""> -->
           <a
           class="nav-link"
-          href="https://linkr.bio/6nm69"
+          href="https://linktr.ee/GuideBookITFest2021"
+          target="_blank"
         >
           <i class="now-ui-icons education_paper"></i>
           <p>Guide Book</p>

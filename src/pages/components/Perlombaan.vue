@@ -23,7 +23,7 @@
     </div>
     <div class="row justify-content-center text-center desain-poster">
       <div class="col-lg-4 col-md-6 col-sm-12">
-          <img src="img/design poster.png"/>
+          <img src="img/Design poster.png"/>
             <h5>Desain Poster</h5>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMjrAslkIes4Bxj0GRQb4qnOb69hw3PIvxhDIbW7fHfdTgWQ/viewform" target="_blank" class="btn btn-primary">Daftar</a>
       </div>

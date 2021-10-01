@@ -12,7 +12,7 @@
                 </h2>
               </div>
             </div>
-            <div class="row mt-5">
+            <div class="row m-5">
               <div class="col-lg-4">
                 <div class="team-player kontak">
                   <a href="https://www.instagram.com/hmjmi_polsri/" target="_blank"><img
@@ -41,7 +41,10 @@
                     class="rounded-circle img-fluid img-raised sosmed"
                   />
                   <h4 class="title">WhatsApp</h4>
-                  <b><h5> +62 822-8786-8672</h5></b>
+                  <b><h5> 082287868672 (Rizki Sulayman)</h5></b>
+                  </a>
+                  <a href="https://wa.me/085369716353">
+                  <b><h5> 085369716353 (Tilareta)</h5></b>
                   </a>
                 </div>
               </div>
