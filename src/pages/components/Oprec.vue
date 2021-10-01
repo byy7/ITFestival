@@ -22,11 +22,7 @@
       </div>
       <p class="ml-3 titik">:</p>
       <div class="detik ml-3">
-        <span id="Detik">0</span>
-        <p>Detik</p>
-      </div>
-    </div>
-            <img src="img/poster2.jpeg" alt="">
+        <span id="Detik">0</span>c
         </div>
       </div>
     </div>
