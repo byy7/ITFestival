@@ -13,7 +13,8 @@
                        addon-left-icon="now-ui-icons users_circle-08" 
                        placeholder="Email..."
                        v-model="user.email"
-                      :class="{ 'is-invalid': $v.user.email.$error }"> </fg-input>
+                      :class="{ 'is-invalid': $v.user.email.$error }"> 
+            </fg-input>
 
             <fg-input class="no-border input-lg" 
                       addon-left-icon="now-ui-icons text_caps-small" 

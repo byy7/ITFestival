@@ -90,7 +90,7 @@ export default new Router({
     {
       path: '/starter',
       name: 'starter',
-      components: { default: Starter },
+      components: { default: Starter, footer: MainFooter },
       props: {
         header: { colorOnScroll: 4000 },
         footer: { backgroundColor: 'black' }

@@ -5,7 +5,7 @@
             <div class="col mt-5 text-center">
               <h2>
                 <b>
-                  <font color="red">About IT Festival</font>
+                  <font color="red">About IT-FESTIVAL</font>
                 </b>
               </h2>
             </div>

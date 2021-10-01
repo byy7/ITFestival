@@ -1,5 +1,5 @@
 <template>
-    <div id="flashback mt-5">
+      <div id="flashback mt-5">
         <div class="container mb-5">
           <div class="row mt-5 text-center justify-content-center">
             <div class="col">

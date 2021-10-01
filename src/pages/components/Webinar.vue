@@ -19,6 +19,7 @@
                 <img class="sidiq pt-3 btn-outline-link" width="100%" height="auto" src="img/sidiq permana.png" />
               </router-link>
             </div>
+            <div class="col-lg-12  text-center justify-content-center mt-3"><a href="https://docs.google.com/forms/d/e/1FAIpQLScSLsqAGQvXJtzRIDzSrXMijz9T0JTPOqSY9fgxxVXhYeKTsA/viewform" target="_blank" class="btn btn-primary">Daftar</a></div>
           </div>
         </div>
       </div>

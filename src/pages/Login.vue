@@ -8,18 +8,19 @@
             <div slot="header" class="logo-container">
               <img v-lazy="'img/logoitfest.png'" alt="" />
             </div>
-
             <fg-input class="no-border input-lg" 
                       addon-left-icon="now-ui-icons users_circle-08" 
-                      placeholder="Username..."
-                      v-model="user.username"
-                      :class="{ 'is-invalid': $v.user.username.$error }"> </fg-input>
+                      placeholder="email..."
+                      v-model="user.email"
+                      :class="{ 'is-invalid': $v.user.email.$error }">
+            </fg-input>
 
             <fg-input class="no-border input-lg" 
                       addon-left-icon="now-ui-icons text_caps-small" 
                       placeholder="Password..."
                       v-model="user.password"
-                      :class="{ 'is-invalid': $v.user.password.$error }"> </fg-input>
+                      :class="{ 'is-invalid': $v.user.password.$error }"> 
+            </fg-input>
 
             <template slot="raw-content">
               <div class="card-footer text-center">

@@ -38,18 +38,18 @@
         icon="now-ui-icons ui-1_calendar-60"
         class="nav-item"
       >
-        <nav-link to="/">
+        <nav-link to="#pelatihan">
           <i class="event"></i> Pelatihan
         </nav-link>
         <a
-          href=""
+          href="#lomba"
           target=""
           class="dropdown-item"
         >
           <i class="event"></i> Perlombaan
         </a>
         <a
-          href=""
+          href="#webinar"
           target=""
           class="dropdown-item"
         >
@@ -67,26 +67,26 @@
         </nav-link>
       </drop-down>
       <li class="nav-item">
-        <router-link to="/guidebook">
+        <!-- <router-link to=""> -->
           <a
           class="nav-link"
-          href=""
+          href="https://linkr.bio/6nm69"
         >
           <i class="now-ui-icons education_paper"></i>
           <p>Guide Book</p>
         </a>
-        </router-link>
+        <!-- </router-link> -->
       </li>
-      <router-link to="/login">
-        <a
-          class="nav-link btn btn-neutral"
-          href="https://www.creative-tim.com/product/vue-now-ui-kit-pro"
+      <!-- <router-link to="https://linktr.ee/ITFESTIVAL2021"> -->
+                <a
+          class="nav-link btn-danger"
+          href="https://forms.gle/Fk3qzq24SzyQrESv6"
           target="_blank"
         >
           <i class=""></i>
-          <p>LOGIN</p>
+          <p>Upload Karya</p>
         </a>
-      </router-link>
+      <!-- </router-link> -->
       <!-- <li class="nav-item"> -->
 <!-- 
       

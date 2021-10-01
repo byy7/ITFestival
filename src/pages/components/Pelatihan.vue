@@ -17,6 +17,7 @@
                 Setelah mengikuti pelatihan ini, peserta dapat meningkatkan <br />
                 kualitas dan kompetensinya dalam mendesain web secara profesional.
               </p>
+              <div class="tombol text-center justify-content-center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdMeDmbIfttVzq7bVMV2C_VrApYIlDtcsi71VcUH6OY2jB-5g/viewform" target="_blank" class="btn btn-primary">Daftar</a></div>
             </div>
           </div>
           <div class="card2 col-sm-12">
@@ -24,6 +25,7 @@
             <div class="web2 col-sm-12">
               <center><b class="web2">Pelatihan Android</b><br /><br /></center>
               <p style="font-weight: normal;">Setelah mengikuti pelatihan ini, peserta dapat meningkatkan <br />kualitas dan kompetensinya dalam mendesain web secara profesional.</p>
+              <div class="tombol text-center justify-content-center"><a href="https://docs.google.com/forms/d/e/1FAIpQLScu9xePZZCmCw7ZhRltX01dljX_gqUPncd7dglWzK0UFt00vg/viewform" target="_blank" class="btn btn-primary">Daftar</a></div>
             </div>
           </div>
         </div>

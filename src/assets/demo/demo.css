@@ -686,3 +686,21 @@
     display: none !important;
   }
 }
+
+#contact .container .kontak{
+  text-decoration: none;
+  transition: transform 1.5s;
+}
+#contact .container .kontak:hover {
+  text-decoration: underline;
+  transform: scale(1.2);
+}
+.contact {
+  background-color: rgba(0, 0, 0, 0);
+}
+#flashback .card{
+  transition: transform 1.5s ease-in-out;
+}
+#flashback .card:hover{
+  transform: scale(1.2);
+}

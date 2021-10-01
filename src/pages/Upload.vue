@@ -13,20 +13,34 @@
             <card>
                 <form>
                   <div class="form-group">
-                    <label for="exampleInputPassword1">Cabang Lomba</label>
+                    <label for="nama">Nama</label>
                     <input
                       type="text"
                       class="form-control"
-                      placeholder="Email Address"
-                      v-model="upload.event_id"
-                      :class="{ 'is-invalid': $v.upload.event_id.$error }"
+                      placeholder="Nama"
+                      v-model="upload.nama"
+                      :class="{ 'is-invalid': $v.upload.nama.$error}"
                     />
                   </div>
                   <div class="form-group">
-                    <label for="exampleInputEmail1"><b>Upload karya</b></label>
-                    <input type="email" class="form-control" aria-describedby="emailHelp">
-                    <input type="file" class="form-control-file" id="exampleFormControlFile1">
-                    <small id="emailHelp" class="form-text text-muted">click here</small>
+                    <label for="lomba">Cabang Lomba</label>
+                    <input
+                      type="text"
+                      class="form-control"
+                      placeholder="Cabang Lomba"
+                      v-model="upload.lomba"
+                      :class="{ 'is-invalid': $v.upload.lomba.$error }"
+                    />
+                  </div>
+                  <div class="form-group">
+                    <label for="karya">Karya</label>
+                    <input
+                      type="text"
+                      class="form-control"
+                      placeholder="Karya"
+                      v-model="upload.karya"
+                      :class="{ 'is-invalid': $v.upload.karya.$error }"
+                    />
                   </div>
                   <router-link to="/">
                     <button class="btn btn-primary">Kembali</button>
@@ -36,7 +50,6 @@
             </card>
         </div>
         </div>
-        
       </div>
     </div>
     <main-footer></main-footer>
@@ -44,12 +57,48 @@
 </template>
 <script>
 import {Button, FormGroupInput } from "@/components";
+import {
+  required,
+  maxLength
+} from "vuelidate/lib/validators";
 export default {
-  name: "login-page",
-  bodyClass: "login-page",
+  name: "upload",
+  bodyClass: "upload-page",
   components: {
     [Button.name]: Button,
     [FormGroupInput.name]: FormGroupInput,
+  },
+  data() {
+    return {
+      upload: {
+        nama: "",
+        lomba: "",
+        karya: "",
+      },
+    };
+  },
+  validations: {
+    upload: {
+      nama: {
+        required,
+        maxLength: maxLength(50),
+      },
+      lomba: {
+        required,
+      },
+      karya: {
+        required,
+        maxLength: maxLength(100),
+      },
+    },
+  },
+  methods: {
+    submit() {
+      this.$v.$touch();
+      if (this.$v.$error) return;
+      alert("Tes");
+      console.log("isi: ", this.upload)
+    },
   },
 };
 </script>
