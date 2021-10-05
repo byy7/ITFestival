@@ -24,7 +24,7 @@
             <img class="image2" width="400px" height="300px" src="img/pelatihan android.png" alt="" />
             <div class="web2 col-sm-12">
               <center><b class="web2">Pelatihan Android</b><br /><br /></center>
-              <p style="font-weight: normal;">Setelah mengikuti pelatihan ini, peserta dapat meningkatkan <br />kualitas dan kompetensinya dalam pemrograman andorid secara profesional.</p>
+              <p style="font-weight: normal;">Setelah mengikuti pelatihan ini, peserta dapat meningkatkan <br />kualitas dan kompetensinya dalam pemrograman android secara profesional.</p>
               <div class="tombol text-center justify-content-center"><a href="https://docs.google.com/forms/d/e/1FAIpQLScu9xePZZCmCw7ZhRltX01dljX_gqUPncd7dglWzK0UFt00vg/viewform" target="_blank" class="btn btn-primary">Daftar</a></div>
             </div>
           </div>

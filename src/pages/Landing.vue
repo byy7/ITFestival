@@ -1,5 +1,5 @@
 <template>
-  <div id="flashback">
+  <div class="flashback">
     <!-- flashback header -->
     <div class="page-header page-header-small">
       <parallax

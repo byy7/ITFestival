@@ -1,8 +1,7 @@
 /* index */
-* {
+*{
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 
 #bg p{
@@ -18,9 +17,15 @@
 }
 
 @media (max-width: 767px) {
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  
   #event img {
     height: 130px;
   }
+
 
   #pelatihan .card1 .web,
   #pelatihan .card2 .web2{
@@ -79,11 +84,11 @@
   }
   #pelatihan .card2 .web2 p {
     text-align: center;
-    margin-right: 300px;
+    margin-right: 30px;
     font-size: 1rem;
   }
   #pelatihan .card2 .web2 {
-    margin-right: 300px;
+    margin-right: 30px;
     font-size: 2rem;
   }
 
@@ -95,13 +100,16 @@
   }
   #pelatihan .image {
     position: relative;
-    left: 31%;
+    left: 36%;
     transition: 0.3s ease-in-out;
   }
   #pelatihan .image2 {
     position: relative;
-    left: 31%;
+    left: 36%;
     transition: 0.3s ease-in-out;
+  }
+  #pelatihan .card1 .web .tombol{
+    margin-right: 10rem;
   }
   @keyframes gerak {
     0% {
@@ -121,6 +129,24 @@
   }
 }
 
+@media (max-width: 400px){
+  #sponsor .spnsr img{
+    width: 200px;
+  }
+  #sponsor .spnsr6 img{
+    width: 200%;
+    margin-top: 18px;
+  }
+  #sponsor .spnsr4 img{
+    width: 150px;
+    margin-bottom: 20px;
+    
+  }
+  #sponsor .spnsr7 img{
+    margin-bottom: 39px;
+  }
+}
+
 
 /* perlombaan */
 #lomba .container .col{
@@ -137,6 +163,7 @@
   background-color: transparent;
   text-align: center;
 }
+
 
 #profile .social {
   height: 350px;
@@ -508,7 +535,9 @@
 }
 
 /*       Loading dots  */
-
+body{
+  width:100%;
+}
 /*      transitions */
 
 .presentation .front,
@@ -705,11 +734,11 @@
 .contact {
   background-color: rgba(0, 0, 0, 0);
 }
-#flashback .card{
-  transition: transform 1.5s ease-in-out;
+.flashback .card{
+  transition: transform 0.5s ease-in-out;
 }
-#flashback .card:hover{
-  transform: scale(1.2);
+.flashback .card:hover{
+  transform: scale(1.1);
 }
 
 /* my style */

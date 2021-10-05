@@ -4,7 +4,7 @@
 
         &.menu-on-left{
             .navbar-collapse{
-                right: auto;
+                right: 0;
                 left: 0;
                 @include transform-translate-x(-300px);
             }
@@ -348,6 +348,11 @@
 @media screen and (max-width: 517px) {
     .alert .alert-icon{
         margin-top: 10px;
+    }
+
+    .navbar{
+        width:100%;
+        margin-right:0;
     }
 }
 

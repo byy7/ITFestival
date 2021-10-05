@@ -70,36 +70,47 @@
                 <b>Our Sponsor</b>
               </h4>
           <div class="row m-5 justify-content-center">
-            <div class="col-lg-3 col-sm-3 col-3">
+            <div class="spnsr col-lg-3 col-sm-3 col-4">
               <img src="/img/sponsor/emina.jpeg" alt="emina" width="40%">
             </div>
-            <div class="col-lg-3 col-sm-3 col-3">
+            <div class="spnsr col-lg-3 col-sm-3 col-4">
               <img src="/img/sponsor/byu.png" alt="gasnet" width="40%">
             </div>
-            <div class="col-lg-3 col-sm-3 col-3">
+            <div class="spnsr col-lg-3 col-sm-3 col-4">
               <img src="/img/sponsor/cyborg.png" alt="cyborg" width="50%">
             </div>
           </div>
           <div class="row m-5 justify-content-center">
-            <div class="col-lg-3 col-sm-3 col-3 mt-2">
+            <div class="spnsr col-lg-3 col-sm-3 col-3 mt-2">
               <img src="/img/sponsor/pempekmisna.jpeg" alt="emina" width="50%">
-            </div>
-            <div class="col-lg-3 col-sm-3 col-5">
+            </div> 
+            <div class="col-lg-3 col-sm-3 col-6">
               <img class="spnsr2" src="/img/sponsor/gasnet.png" alt="gasnet" width="220%">
             </div>
-            <div class="col-lg-2 col-sm-3 col-3 mt-3">
+            <div class="spnsr col-lg-2 col-sm-3 col-3 mt-3">
               <img src="/img/sponsor/cateringtiara.png" alt="cyborg" width="80%">
             </div>
           </div>
           <div class="row m-5 justify-content-center">
-            <div class="col-lg-3 col-sm-3 col-3">
+            <div class="spnsr col-lg-3 col-sm-3 col-4">
               <img src="/img/sponsor/duobidadari.JPG" alt="emina" width="40%">
             </div>
-            <div class="col-lg-3 col-sm-3 col-3">
-              <img src="/img/sponsor/dewaweb.png" alt="gasnet" width="90%">
+            <div class="spnsr6 col-lg-3 col-sm-3 col-4">
+              <img src="/img/sponsor/dewaweb.png" alt="gasnet" width="100%">
             </div>
-            <div class="col-lg-2 col-sm-3 col-3 mt-3">
+            <div class="spnsr4 col-lg-2 col-sm-3 col-4 mt-4">
               <img src="/img/sponsor/dicoding.png" alt="cyborg" width="100%">
+            </div>
+          </div>
+          <div class="row m-5 justify-content-center">
+            <div class="spnsr col-lg-3 col-sm-3 col-4">
+              <img src="/img/sponsor/GATSBY.jpg" alt="emina" width="40%">
+            </div>
+            <div class="spnsr col-lg-3 col-sm-3 col-4">
+              <img src="/img/sponsor/Istana Camera.png" alt="gasnet" width="50%">
+            </div>
+            <div class="spnsr7 col-lg-2 col-sm-3 col-4 mt-4">
+              <img src="/img/sponsor/PIXY.jpg" alt="cyborg" width="50%%">
             </div>
           </div>
           </div>
@@ -108,7 +119,7 @@
                 <b>Media Partner</b>
               </h4>
           <div class="row mt-5 justify-content-center">
-            <div class="col-lg-2 col-sm-4 col-4">
+            <div class="col-lg-2 col-sm-4 col-4 mb-5">
               <img src="/img/media partner/BEM FASILKOM UI.jpg" alt="cyborg" width="50%">
             </div>
             <div class="col-lg-2 col-sm-4 col-4">
@@ -129,7 +140,7 @@
           </div>
           
           <div class="row mt-5 justify-content-center">
-            <div class="col-lg-2 col-sm-4 col-4 mt-5">
+            <div class="col-lg-2 col-sm-4 col-4 mt-5 mb-5">
               <img src="/img/media partner/Event Mahasiswa 3.png" alt="cyborg" width="60%">
             </div>
             <div class="col-lg-2 col-sm-4 col-4">
@@ -150,7 +161,7 @@
           </div>
           
           <div class="row mt-5 justify-content-center">
-            <div class="col-lg-2 col-sm-4 col-4">
+            <div class="col-lg-2 col-sm-4 col-4 mb-5">
               <img src="/img/media partner/iyouth.corp.jpg" alt="cyborg" width="50%">
             </div>
             <div class="col-lg-2 col-sm-4 col-4">
@@ -171,8 +182,8 @@
           </div>
           
           <div class="row mt-5 justify-content-center mb-5">
-            <div class="col-lg-2 col-sm-4 col-4">
-              <img src="/img/media partner/peksos.id.png" alt="cyborg" width="50%">
+            <div class="col-lg-2 col-sm-4 col-4 mb-5">
+              <img class="mt-2" src="/img/media partner/peksos.id.png" alt="cyborg" width="50%" style="background-color: black;">
             </div>
             <div class="col-lg-2 col-sm-4 col-4">
               <img src="/img/media partner/Pusat Seminar.png" alt="dewaweb" width="50%">
@@ -182,6 +193,12 @@
             </div>
             <div class="col-lg-2 col-sm-4 col-4">
               <img src="/img/media partner/trax.fm.jpg" alt="cyborg" width="50%">
+            </div>
+            <div class="col-lg-2 col-sm-4 col-4">
+              <img src="/img/media partner/PERMIKOMNAS SUMBAGSEL.jpg" alt="cyborg" width="50%">
+            </div>
+            <div class="col-lg-2 col-sm-4 col-4">
+              <img src="/img/media partner/eljohn.png" alt="cyborg" width="50%">
             </div>
             
           </div>

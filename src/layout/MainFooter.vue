@@ -24,10 +24,10 @@
         </ul>
       </nav> -->
       <div class="copyright">
-        &copy; Copyright  {{ year }} | Designed by
+        &copy; Copyright  {{ year }} | Build by
         
         <a href="" target="" rel="noopener"
-          >Creative Tim ITFest</a
+          >Tim ITFest</a
         >
       </div>
     </div>

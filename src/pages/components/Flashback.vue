@@ -1,5 +1,5 @@
 <template>
-      <div id="flashback mt-5">
+      <div class="flashback mt-5">
         <div class="container mb-5">
           <div class="row mt-5 text-center justify-content-center">
             <div class="col">
@@ -41,7 +41,7 @@
                 <div class="card-body">
                   <h5 class="card-title">Seminar & Talkshow</h5>
                   <p class="card-text">
-                    Seminar yang membahas hal terbaru dalam dunia IT, serta talkshow yang mengundang content creator terkenal di indonesia
+                    Seminar yang membahas hal terbaru di dunia IT  dan talkshow yang mengundang content creator terkenal di indonesia
                   </p>
                   <router-link to="/landing" class="btn btn-primary">Selengkapnya</router-link>
                 </div>

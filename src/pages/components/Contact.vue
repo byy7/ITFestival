@@ -43,7 +43,7 @@
                   <h4 class="title">WhatsApp</h4>
                   <b><h5> 082287868672 (Rizki Sulayman)</h5></b>
                   </a>
-                  <a href="https://wa.me/085369716353">
+                  <a href="https://wa.me/6285369716353">
                   <b><h5> 085369716353 (Tilareta)</h5></b>
                   </a>
                 </div>
