@@ -114,14 +114,14 @@
               </div>
             </div>
             <div class="row m-5 justify-content-center">
-              <div class="spnsr col-lg-3 col-sm-3 col-4">
+              <div class="spnsr col-lg-3 col-sm-3 col-3 mt-2">
                 <img src="/img/sponsor/UniPin Black.png" alt="Unipin" width="50%" />
               </div>
               <div class="spnsr col-lg-3 col-sm-3 col-6">
                 <img src="/img/sponsor/Bukit Asam.png" alt="Bukit Asam" width="200%" />
               </div>
-              <div class="spnsr7 col-lg-2 col-sm-3 col-4 mt-4">
-                <img src="" alt="" width="50%" />
+              <div class="spnsr col-lg-2 col-sm-3 col-3 mt-1">
+                <img src="/img/sponsor/MLAGESTI.png" alt="MLAGESTI" width="50%" />
               </div>
             </div>
           </div>
@@ -134,10 +134,7 @@
                 <img src="/img/media partner/BEM FASILKOM UI.jpg" alt="cyborg" width="50%" />
               </div>
               <div class="col-lg-2 col-sm-4 col-4">
-                <img src="/img/media partner/BEM KM UNSRI.jpg" alt="dewaweb" width="50%" />
-              </div>
-              <div class="col-lg-2 col-sm-4 col-4">
-                <img src="/img/media partner/Budak Palembang Nian.jpg" alt="cyborg" width="50%" />
+                <img src="/img/media partner/Budak Palembang Nian.jpg" alt="" width="50%" />
               </div>
               <div class="col-lg-2 col-sm-4 col-4">
                 <img src="/img/media partner/Event Campus.png" alt="cyborg" width="50%" />
@@ -148,59 +145,59 @@
               <div class="col-lg-2 col-sm-4 col-4">
                 <img src="/img/media partner/Event Detect.png" alt="cyborg" width="50%" />
               </div>
-            </div>
-
-            <div class="row mt-5 justify-content-center">
-              <div class="col-lg-2 col-sm-4 col-4 mt-5 mb-5">
-                <img src="/img/media partner/Event Mahasiswa 3.png" alt="cyborg" width="60%" />
-              </div>
               <div class="col-lg-2 col-sm-4 col-4">
-                <img src="/img/media partner/Hallo Event.jpg" alt="dewaweb" width="50%" />
-              </div>
-              <div class="col-lg-2 col-sm-4 col-4">
-                <img src="/img/media partner/HIMAPES (Himpunan Mahasiswa Pend. Sejarah)_.jpg" alt="cyborg" width="50%" />
-              </div>
-              <div class="col-lg-2 col-sm-4 col-4 mt-2">
-                <img src="/img/media partner/HMJ Sistem Informasi UIN RF.jpg" alt="cyborg" width="50%" />
-              </div>
-              <div class="col-lg-2 col-sm-4 col-4 mt-3">
-                <img src="/img/media partner/Info Event Jatim.png" alt="cyborg" width="50%" />
-              </div>
-              <div class="col-lg-2 col-sm-4 col-4">
-                <img src="/img/media partner/Info Event Mahasiswa Indonesia.png" alt="cyborg" width="50%" />
+                <img src="/img/media partner/Event Mahasiswa 3.png" alt="cyborg" width="50%" />
               </div>
             </div>
 
             <div class="row mt-5 justify-content-center">
               <div class="col-lg-2 col-sm-4 col-4 mb-5">
+                <img src="/img/media partner/Hallo Event.jpg" alt="cyborg" width="60%" />
+              </div>
+              <div class="col-lg-2 col-sm-4 col-4">
+                <img src="/img/media partner/HIMAPES (Himpunan Mahasiswa Pend. Sejarah)_.jpg" alt="dewaweb" width="50%" />
+              </div>
+              <div class="col-lg-2 col-sm-4 col-4">
+                <img src="/img/media partner/HMJ Sistem Informasi UIN RF.jpg" alt="cyborg" width="50%" />
+              </div>
+              <div class="col-lg-2 col-sm-4 col-4 mt-2">
+                <img src="/img/media partner/Info Event Jatim.png" alt="cyborg" width="50%" />
+              </div>
+              <div class="col-lg-2 col-sm-4 col-4 mt-3">
+                <img src="/img/media partner/Info Event Mahasiswa Indonesia.png" alt="cyborg" width="50%" />
+              </div>
+              <div class="col-lg-2 col-sm-4 col-4">
                 <img src="/img/media partner/iyouth.corp.jpg" alt="cyborg" width="50%" />
               </div>
-              <div class="col-lg-2 col-sm-4 col-4">
-                <img src="/img/media partner/logo imc palembang (medpart).png" alt="dewaweb" width="50%" />
+            </div>
+
+            <div class="row mt-5 justify-content-center">
+              <div class="col-lg-2 col-sm-4 col-4 mb-5">
+                <img src="/img/media partner/logo imc palembang (medpart).png" alt="cyborg" width="50%" />
               </div>
               <div class="col-lg-2 col-sm-4 col-4">
-                <img src="/img/media partner/logo kabinet gemilang.png" alt="cyborg" width="50%" />
+                <img src="/img/media partner/logo kabinet gemilang.png" alt="dewaweb" width="50%" />
               </div>
               <div class="col-lg-2 col-sm-4 col-4 mt-4">
-                <img src="/img/media partner/logo_sydemy_colour.png" alt="cyborg" />
+                <img src="/img/media partner/logo_sydemy_colour.png" alt="cyborg" width="100%" />
               </div>
               <div class="col-lg-2 col-sm-4 col-4 mt-4">
-                <img src="/img/media partner/Lomba Mahasiswa.png" alt="cyborg" width="50%" />
+                <img src="/img/media partner/Lomba Mahasiswa.png" alt="cyborg" />
               </div>
-              <div class="col-lg-2 col-sm-4 col-4">
+              <div class="col-lg-2 col-sm-4 col-4 mt-4">
                 <img src="/img/media partner/Madingevent,id.png" alt="cyborg" width="50%" />
+              </div>
+              <div class="col-lg-2 col-sm-4 col-4 mt-5">
+                <img src="/img/media partner/peksos.id.png" alt="cyborg" width="50%" style="background-color: black" />
               </div>
             </div>
 
             <div class="row mt-5 justify-content-center mb-5">
               <div class="col-lg-2 col-sm-4 col-4 mb-5">
-                <img class="mt-2" src="/img/media partner/peksos.id.png" alt="cyborg" width="50%" style="background-color: black;" />
+                <img class="mt-2" src="/img/media partner/Pusat Seminar.png" alt="cyborg" width="50%" />
               </div>
               <div class="col-lg-2 col-sm-4 col-4">
-                <img src="/img/media partner/Pusat Seminar.png" alt="dewaweb" width="50%" />
-              </div>
-              <div class="col-lg-2 col-sm-4 col-4">
-                <img src="/img/media partner/Smart Integrated System.jpg" alt="cyborg" width="50%" />
+                <img src="/img/media partner/Smart Integrated System.jpg" alt="dewaweb" width="50%" />
               </div>
               <div class="col-lg-2 col-sm-4 col-4">
                 <img src="/img/media partner/trax.fm.jpg" alt="cyborg" width="50%" />
@@ -211,25 +208,13 @@
               <div class="col-lg-2 col-sm-4 col-4">
                 <img src="/img/media partner/eljohn.png" alt="cyborg" width="50%" />
               </div>
-            </div>
-            <div class="row mt-5 justify-content-center mb-5">
-              <div class="col-lg-2 col-sm-4 col-4 mb-5">
-                <img class="mt-2" src="/img/media partner/patal.png" alt="patal" width="50%" />
+              <div class="col-lg-2 col-sm-4 col-4">
+                <img src="/img/media partner/patal.png" alt="cyborg" width="50%" />
               </div>
+            </div>
+            <div class="row justify-content-center mb-5">
               <div class="col-lg-2 col-sm-4 col-4">
                 <img src="/img/media partner/NGP.png" alt="net good people" width="50%" style="background-color : black" />
-              </div>
-              <div class="col-lg-2 col-sm-4 col-4">
-                <img src="/img/media partner/" alt="" width="50%" />
-              </div>
-              <div class="col-lg-2 col-sm-4 col-4">
-                <img src="/img/media partner/" alt="" width="50%" />
-              </div>
-              <div class="col-lg-2 col-sm-4 col-4">
-                <img src="/img/media partner/" alt="" width="50%" />
-              </div>
-              <div class="col-lg-2 col-sm-4 col-4">
-                <img src="/img/media partner/" alt="" width="50%" />
               </div>
             </div>
           </div>

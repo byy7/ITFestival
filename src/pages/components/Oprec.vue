@@ -3,8 +3,9 @@
     <div class="container">
       <div class="row justify-content-center">
         <div class="col text-center">
-           <h2 class="m-3"><b>Open Registration</b></h2> <br>
-          <img src="/img/postertipes.png" alt="poster" width="70%"><br>
+          <h2 class="m-3"><b>Open Registration</b></h2>
+          <br />
+          <img src="/img/poster.jpeg" alt="poster" width="70%" /><br />
         </div>
       </div>
       <div class="row mt-5">
@@ -40,6 +41,6 @@
 // import { Card, FormGroupInput, Button } from '@/components';
 
 export default {
-  name: 'Oprec',
+  name: "Oprec",
 };
 </script>
