@@ -5,7 +5,7 @@
         <div class="col text-center">
           <h2 class="m-3"><b>Open Registration</b></h2>
           <br />
-          <img src="/img/poster.jpeg" alt="poster" width="70%" /><br />
+          <img src="/img/poster.png" alt="poster" width="70%" /><br />
         </div>
       </div>
       <div class="row mt-5">

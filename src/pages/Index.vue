@@ -125,6 +125,29 @@
               </div>
             </div>
           </div>
+          <div class="row m-5 justify-content-center">
+            <div class="spnsr col-lg-3 col-sm-3 col-4">
+              <img src="/img/sponsor/alpha.png" alt="alpha" width="40%" />
+            </div>
+            <div class="spnsr col-lg-3 col-sm-3 col-4">
+              <img src="/img/sponsor/smartfren.jpg" alt="smartfren" width="50%" />
+            </div>
+            <div class="spnsr7 col-lg-2 col-sm-3 col-4">
+              <img src="/img/sponsor/sanggar.jpg" alt="sanggar" width="50%" />
+            </div>
+          </div>
+          <div class="row m-5 justify-content-center">
+            <div class="spnsr col-lg-3 col-sm-3 col-3 mt-3">
+              <img src="/img/sponsor/ht.jpeg" alt="" width="50%" />
+            </div>
+            <div class="col-lg-3 col-sm-3 col-6 mt-3">
+              <img class="spnsr2" src="/img/sponsor/mandiri.jpg" alt="mandiri" width="220%" />
+            </div>
+            <div class="spnsr col-lg-2 col-sm-3 col-3 mt-3">
+              <img src="/img/sponsor/sotoabahopan.png" alt="Soto Abah Opan" width="80%" />
+            </div>
+          </div>
+
           <div class="row justify-content-center text-center">
             <h4 style="font-size: 30px;">
               <b>Media Partner</b>
