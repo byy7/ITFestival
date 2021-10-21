@@ -141,7 +141,7 @@
               <img src="/img/sponsor/ht.jpeg" alt="" width="50%" />
             </div>
             <div class="col-lg-3 col-sm-3 col-6 mt-3">
-              <img class="spnsr2" src="/img/sponsor/mandiri.jpg" alt="mandiri" width="220%" />
+              <img class="spnsr2" src="/img/sponsor/Mandiri.jpg" alt="mandiri" width="220%" />
             </div>
             <div class="spnsr col-lg-2 col-sm-3 col-3 mt-3">
               <img src="/img/sponsor/sotoabahopan.png" alt="Soto Abah Opan" width="80%" />
