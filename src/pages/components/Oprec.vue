@@ -8,7 +8,7 @@
           <img src="/img/poster.png" alt="poster" width="70%" /><br />
         </div>
       </div>
-      <div class="row mt-5">
+      <!-- <div class="row mt-5">
         <div class="col text-center justify-content-center">
           <p style="font-weight: bold;">Registrasi Berakhir Dalam</p>
           <div class="hitungMundur">
@@ -33,7 +33,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
     </div>
   </div>
 </template>
